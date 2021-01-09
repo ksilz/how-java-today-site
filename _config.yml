@@ -23,7 +23,7 @@ twitter_username: karsilz
 github_username:  ksilz
 
 # Build settings
-markdown: kramdown
+markdown: GFM
 theme: minima
 plugins:
   - jekyll-feed
