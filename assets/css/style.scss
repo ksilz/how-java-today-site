@@ -13,3 +13,22 @@ a:hover {
   color: rgb(3, 102, 214);
   text-decoration: underline;
 }
+
+footer a {
+  color: rgb(3, 102, 214);
+  font-size: 1.15em;
+}
+
+footer a:hover {
+  color: rgb(3, 102, 214);
+  text-decoration: underline;
+  font-size: 1.15em;
+}
+
+header h1 {
+  font-size: 32px;
+}
+
+header {
+  padding-bottom: 1px;
+}
