@@ -5,26 +5,11 @@
 
 // https://cssgradient.io for gradient
 
-.page-header {
-  padding: 10px 30px 1px 30px;
-  background: rgb(248,153,23);
-  background: linear-gradient(90deg, rgba(248,153,23,1) 0%, rgba(84,26,10,1) 49%, rgba(18,11,231,1) 100%);
+a {
+  color: rgb(3, 102, 214);
 }
 
-.project-tagline {
-  font-size: 1.25rem;
-  color: white;
-}
-
-.site-footer {
-  padding-top: 12px;
-}
-
-.project-name {
-  font-size: 2.5rem;
-  color: white;
-}
-
-.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6  {
-  color: #F89917;
+a:hover {
+  color: rgb(3, 102, 214);
+  text-decoration: underline;
 }
