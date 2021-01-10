@@ -1,5 +1,5 @@
 # Site settings
-title: How Should We Build Java Applications Today?
+title: How to Build Java Applications Today?
 description: >- # this means to ignore newlines until "baseurl:"
   In Java today, we're all novices somewhere. Let's share some advice!
 baseurl: "" # the subpath of your site, e.g. /blog
