@@ -2,3 +2,16 @@
 ---
 
 @import "{{ site.theme }}";
+
+// https://cssgradient.io for gradient
+
+.page-header {
+  padding: 30px 30px 10px 30px;
+  background: rgb(208,93,20);
+  background: linear-gradient(90deg, rgba(208,93,20,1) 0%, rgba(84,26,10,1) 49%, rgba(19,13,201,1) 100%);
+}
+
+.project-tagline {
+  font-size: 1.5em;
+  font-weight: bold;
+}
