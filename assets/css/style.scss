@@ -33,10 +33,14 @@ header {
   padding-bottom: 1px;
 }
 
-ul {
+ul,ol {
   margin-left: 2.5rem;
 }
 
-ul li {
+ul li, ol li {
   padding-left: 0px;
+}
+
+ol li {
+  font-weight: 300;
 }
