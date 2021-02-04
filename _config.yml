@@ -1,7 +1,5 @@
 # Site settings
 title: How to Build Java Applications Today?
-description: >- # this means to ignore newlines until "baseurl:"
-  In Java today, we're all novices somewhere. Let's share advice!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.howjavatoday.com" # the base hostname & protocol for your site, e.g. http://example.com
 
