@@ -3,7 +3,7 @@ title: How to Build Java Applications Today?
 ---
 
 ## In Java Today, We're All Novices Somewhere!
-Java or Kotlin? Which Java distribution? And which Java version? Microservices or monolith? Relational databases or NoSQL? Spring Boot or Quarkus/Micronaut/MicroProfile/Helidon? Imperative or reactive? REST or GraphQL? And how do the cloud, containers, and DevOps fit into all of this?
+Java or Kotlin? Microservices or monolith? Relational databases or NoSQL? Spring Boot or Quarkus/Micronaut/MicroProfile/Helidon? Imperative or reactive? REST or GraphQL? Which Java distribution? And which Java version? And how do the cloud, containers, and DevOps fit into all of this?
 
 That is a lot of questions for us Java developers! And not only do we have to pick all these **technologies & tools**. We also have to do this **more often** now!
 
