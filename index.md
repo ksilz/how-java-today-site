@@ -2,6 +2,12 @@
 title: In Java Today, We're All Novices Somewhere!
 ---
 
+<div align="center" >
+<h1 style="color: red; font-weight: bolder">Site Not Live!</h2>
+<p style="color: red; font-weight: bold">This site is still under development. The content below is a preview and not intended for actual use.</p>
+<hr/>
+</div>
+
 ## We Pick More Technologies & Tools More Often Today
 Java or Kotlin? Microservices or monolith? Relational databases or NoSQL? Spring Boot or Quarkus/Micronaut/MicroProfile/Helidon? Imperative or reactive? REST or GraphQL? Which Java distribution? And which Java version? And how do the cloud, containers, and DevOps fit into all of this?
 
